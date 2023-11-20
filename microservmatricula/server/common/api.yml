@@ -15,8 +15,24 @@ paths:
     get: 
       responses:
         200:
-          descricao: Return all
-          contetn: {}
+          description: Return all
+          content: {}
+    post: 
+      responses:
+        200:
+          description: Return all
+          content: {}
+  /carros/{id}:
+    get:
+      responses:
+        200:
+          description: Return all
+          content: {}
+    put:
+      responses:
+        200:
+          description: Return all
+          content: {}
   /examples:
     get:
       tags:
