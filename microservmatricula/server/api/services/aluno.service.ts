@@ -3,7 +3,7 @@ import cosmosDb from '../../common/cosmosdb';
 import { Aluno } from '../entites/aluno';
 
 class AlunoService {
-  private container: Container = cosmosDb.container('carro');
+  private container: Container = cosmosDb.container('aluno');
 
   async all(): Promise<Aluno[]> {
     const { resources: listaCarros } = await this.container.items
