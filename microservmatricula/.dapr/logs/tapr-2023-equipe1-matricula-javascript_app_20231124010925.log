@@ -1,0 +1,12 @@
+== APP - tapr-2023-equipe1-matricula-javascript == 
+== APP - tapr-2023-equipe1-matricula-javascript == > microservmatricula@1.0.0 dev
+== APP - tapr-2023-equipe1-matricula-javascript == > nodemon server/index.ts | pino-pretty
+== APP - tapr-2023-equipe1-matricula-javascript == 
+== APP - tapr-2023-equipe1-matricula-javascript == [nodemon] 2.0.22
+== APP - tapr-2023-equipe1-matricula-javascript == [nodemon] to restart at any time, enter `rs`
+== APP - tapr-2023-equipe1-matricula-javascript == [nodemon] watching path(s): server/**/* .env
+== APP - tapr-2023-equipe1-matricula-javascript == [nodemon] watching extensions: ts,js,json,yaml,yml
+== APP - tapr-2023-equipe1-matricula-javascript == [nodemon] starting `ts-node server/index.ts`
+== APP - tapr-2023-equipe1-matricula-javascript == [1700788169939] INFO (tapr-2023-equipe1-matricula-javascript/53339 on codespaces-ce2e77): up and running in development @: codespaces-ce2e77 on port: 3000}
+
+termination signal received: shutting down
