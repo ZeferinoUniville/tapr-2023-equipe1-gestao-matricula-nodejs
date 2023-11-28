@@ -22,7 +22,29 @@ paths:
         200:
           description: Return all
           content: {}
-  /carros/{id}:
+  /alunos/{id}:
+    get:
+      responses:
+        200:
+          description: Return all
+          content: {}
+    put:
+      responses:
+        200:
+          description: Return all
+          content: {}
+  /matriculas:
+    get: 
+      responses:
+        200:
+          description: Return all
+          content: {}
+    post: 
+      responses:
+        200:
+          description: Return all
+          content: {}
+  /matriculas/{id}:
     get:
       responses:
         200:
