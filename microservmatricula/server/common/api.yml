@@ -17,6 +17,12 @@ paths:
         200:
           description: Return all
           content: {}
+  /turmas/event:
+    post:
+      responses:
+        200:
+          description: Return all
+          content: {}
   /matriculas:
     get: 
       responses:
