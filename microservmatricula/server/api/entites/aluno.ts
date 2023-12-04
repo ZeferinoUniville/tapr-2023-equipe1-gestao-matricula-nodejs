@@ -1,10 +1,8 @@
 export interface Aluno {
   id: string;
-  Matricula: string;
-  Turma: string;
-  Nome: string;
-  Sobrenome: string;
-  cpf: string;
-  Email: string;
-  Phone: string;
+  nome: string;
+  sobrenome: string;
+  cpf: number;
+  curso: string;
+  dataNescimento: Date;
 }
