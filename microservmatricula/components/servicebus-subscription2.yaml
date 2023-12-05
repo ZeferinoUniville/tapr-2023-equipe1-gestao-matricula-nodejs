@@ -5,7 +5,7 @@ metadata:
 spec:
   topic: topico-equipe-1-turma
   routes:
-    default: /api/v1/turma/event
+    default: /api/v1/turmas/event
   pubsubname: servicebus-pubsub
 scopes:
 - tapr-2023-equipe1-matricula-javascript
